@@ -23,7 +23,7 @@ session_start();
         <font size="4" color="#585440">A typo perhaps? If not, then please contact the person who gave you this link or the owner of the webpage where you found this link.</font>
         </ul>
         <ul style="margin-top:0px; margin-bottom:15px; line-height:150%; width:600px;">
-        <font size="3" color="#585440">Note: If you can see this page then the site is working fine.  It's just that the link you're you're trying to use is incorrect.</font>
+        <font size="3" color="#585440">Note: If you can see this page then the site is working fine.  It's just that the link you're trying to use is incorrect.</font>
         </ul>
 <?php
 
